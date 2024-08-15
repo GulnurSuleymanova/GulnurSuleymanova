@@ -1,4 +1,4 @@
-![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+![MasterHead](https://i.pinimg.com/originals/41/85/84/418584e1566e9536a8cc76d53b92fd1d.gif)
 <h1 align="center">Hi 👋, I'm Gulnur</h1>
 <h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 
